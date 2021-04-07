@@ -1,7 +1,7 @@
 # European Resturant Guide
 ## European
 ---
-Select A Specific European Food:
+Select a specific European Food:
 ## [Greek](greek.md)
 ## [Mediterranean](mediterranean.md)
 ---

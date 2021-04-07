@@ -1,8 +1,9 @@
-# european Resturant Guide
-## Europian --> Meditarrean
+# European Resturant Guide
+## Europian --> Mediterranean
+
 ---
 Select a resturant:
 ## [Tanoreen](https://tanoreen.com/)
 ---
-[back to european](european.md)
+[Back to European](european.md)
 [Start Over](../home.md)
